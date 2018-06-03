@@ -2,16 +2,17 @@
 
 This is a currently ongoing project on inventory sytem. Some of the basic info are given below:
 
-1.Project Name: inventoryLTE
-2.Version: 1.0.0
-3.Created by: Afia Zahin
-4.Email me at: afiazahin08@gmail.com
+Basic info:
+  1.Project Name: inventoryLTE.
+  2.Version: 1.0.0.
+  3.Created by: Afia Zahin.
+  4.Email me at: afiazahin08@gmail.com.
 
 **
-
-1.Larvel Vesion Used: laravel 5.6.17
-2.AdminLTE - admin control panel name :almasaeed2010/adminlte
-3.Admin panel version: v2.4.3  
+Details:
+  1.Larvel Vesion Used: laravel 5.6.17.
+  2.AdminLTE - admin control panel name :almasaeed2010/adminlte.
+  3.Admin panel version: v2.4.3.  
 
 **
 
