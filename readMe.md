@@ -2,16 +2,16 @@
 
 This is a currently ongoing project on inventory sytem. Some of the basic info are given below:
 
-Project Name: inventoryLTE
-Version: 1.0.0
-Created by: Afia Zahin
-Email me at: afiazahin08@gmail.com
+1.Project Name: inventoryLTE
+2.Version: 1.0.0
+3.Created by: Afia Zahin
+4.Email me at: afiazahin08@gmail.com
 
 **
 
-Larvel Vesion Used: laravel 5.6.17
-AdminLTE - admin control panel name :almasaeed2010/adminlte
-Admin panel version: v2.4.3  
+1.Larvel Vesion Used: laravel 5.6.17
+2.AdminLTE - admin control panel name :almasaeed2010/adminlte
+3.Admin panel version: v2.4.3  
 
 **
 
@@ -22,6 +22,7 @@ Project Indices
 4. Image for uploading and viewing in setting page
 5. Graphical Representation of data.
 6. Secure through the use of middleware.
-7. Paginated Product view page.
+7. All forms are validated.
+8. Paginated Product view page.
 
 ** The project is ongoing and will be updated soon.
